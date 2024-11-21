@@ -9,18 +9,16 @@ export const recipes = [
     },
     {
         id: 2,
-        title: "Pasta Primavera",
-        description: "A light and fresh pasta dish packed with seasonal vegetables and herbs, perfect for a quick and healthy meal.",
-        category: "main course",
-        image: "images/pasta-primavera.jpg",
-        rating: 4.0
+        title: "Chicken Curry",
+        description: "A flavorful chicken curry made with Indian spices.",
+        image: "images/chicken-curry.webp",
+        rating: 4.8
     },
     {
-        id: 3,
-        title: "Chocolate Cake",
-        description: "A rich and moist chocolate cake, topped with creamy chocolate frosting. Perfect for all occasions!",
-        category: "dessert",
-        image: "images/chocolate-cake.jpg",
-        rating: 5.0
+        title: "Chocolate Chip Cookies",
+        category: "Dessert",
+        rating: 4.9,
+        description: "Classic soft and chewy cookies with gooey chocolate chips in every bite.",
+        image: "images/chocolate-chip-cookies.jpg"
     }
 ];
